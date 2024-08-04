@@ -1,4 +1,4 @@
-Introduction:- Welcome to the NFT_Store repository! This project Aims to Provide an E-commerce site for NFT exchange. It is designed to showcase your NFT arts and NFT Content.
+Introduction:- Welcome to the NFT_Store repository! This project aims to provide an e-commerce site for NFT exchanges. It is designed to showcase your NFT arts and NFT Content.
 
 Features Feature 1: E-commerce for the NFT arts and NFT content.
 
